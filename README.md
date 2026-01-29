@@ -43,43 +43,15 @@
   
   ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
   
-  ```typescript
-  class Developer {
-    name: string = "Mohamed Attia";
-    location: string = "Port Said, Egypt 🇪🇬";
-    education: string = "Bioinformatics @ Faculty of Science";
-    
-    currentFocus: string[] = [
-      "Building scalable full-stack applications",
-      "Creating immersive 3D web experiences",
-      "Exploring AI/ML in bioinformatics"
-    ];
-    
-    techStack: {
-      frontend: ["React", "Next.js", "Three.js", "TypeScript"],
-      backend: ["Node.js", "Python", "FastAPI", "Django"],
-      databases: ["PostgreSQL", "MongoDB", "Supabase"],
-      tools: ["Docker", "Git", "Linux", "Vercel"]
-    };
-    
-    currentlyLearning = () => [
-      "Advanced Next.js 14 Patterns",
-      "WebGL & Three.js Animations",
-      "Cloud Architecture (AWS/GCP)",
-      "Microservices Architecture"
-    ];
-    
-    lifePhilosophy = () => "Code is poetry written in logic ✨";
-  }
-  ```
+  🎓 **Bioinformatics Student** @ Faculty of Science, Port Said 🇪🇬
   
-  ### 🎯 Quick Highlights
+  💻 **Full-Stack Developer** specializing in modern web technologies and 3D experiences
   
-  - 🚀 **5+ Full-Stack Projects** deployed in production
-  - 🎨 **3D Portfolio** with interactive animations
-  - 💼 **Real-world Experience** with payment integrations & APIs
-  - 🧬 **Bioinformatics Background** combining tech with science
-  - ☕ Turning **caffeine into clean code** since day one
+  🚀 Passionate about building **scalable applications** that solve real-world problems. From **interactive 3D portfolios** to **enterprise management systems** with payment integrations, I bring ideas to life with clean, efficient code.
+  
+  🔭 Currently exploring **AI/ML in bioinformatics**, **advanced Next.js patterns**, and **cloud architecture**
+  
+  ⚡ **Fun fact:** I turn coffee into code, and bugs into features!
   
 </div>
 
@@ -257,8 +229,9 @@
 <!-- Detailed Profile Card -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedatia21&theme=tokyonight" alt="Profile Details"/>
 
-
-
+<!-- Additional Stats -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedatia21&theme=tokyonight" alt="Repos per Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamedatia21&theme=tokyonight" alt="Most Commit Language"/>
 
 </div>
 
@@ -274,14 +247,19 @@
 ---
 
 <!-- Achievements Section -->
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedatia21&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
 
 ---
 
 <!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
 
 ---
