@@ -1,174 +1,219 @@
 <div align="center">
 
-# Mohamed Hassan Attia
+# Hi 👋, I'm Mohamed Attia
 
-**Full Stack Developer** • **Bioinformatics Student** • **Port Said University**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Bioinformatics+Student;Science+%40+Port+Said+University;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://3d-portfolio-three-nu.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hassan-attia)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedatia9123@gmail.com)
+<p align="center">
+  <a href="https://3d-portfolio-three-nu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-hassan-attia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohamedatia9123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/mohamedatia142">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedatia21&label=Profile%20Views&color=00D9FF&style=flat-square)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-I'm a Full Stack Developer with a passion for building scalable web applications and exploring the intersection of technology and biology through Bioinformatics. I specialize in creating modern, performant applications using cutting-edge technologies.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```typescript
+```javascript
 const mohamed = {
+    pronouns: "He" | "Him",
     location: "Port Said, Egypt",
     education: "Bioinformatics @ Faculty of Science",
-    currentFocus: ["Full Stack Development", "3D Web Experiences", "System Architecture"],
-    technologies: {
-        frontend: ["React", "Next.js", "TypeScript", "Three.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "FastAPI", "Django"],
-        databases: ["PostgreSQL", "MongoDB", "Supabase"],
-        tools: ["Docker", "Git", "Vercel", "Linux"]
-    }
+    currentRole: "Full Stack Developer",
+    passions: ["Web Development", "3D Graphics", "Bioinformatics"],
+    currentlyLearning: ["Next.js", "Three.js", "Cloud Architecture"],
+    funFact: "I turn coffee into code ☕️"
 };
 ```
 
----
+### 🚀 Quick Facts
 
-## 🚀 Featured Projects
+- 🎓 Studying **Bioinformatics** at Port Said University
+- 💼 Building **modern web applications**
+- 🌱 Learning **Next.js, Three.js & Cloud Technologies**
+- 👯 Open to **collaborate on open-source projects**
+- 💬 Ask me about **React, Node.js, Python**
+- 📫 Reach me: **mohamedatia9123@gmail.com**
+- ⚡ Fun fact: **I love turning ideas into code!**
 
-### [3D Interactive Portfolio](https://3d-portfolio-three-nu.vercel.app/)
-**Full Stack • Three.js • React**
-
-An immersive 3D portfolio experience showcasing projects and skills in an interactive environment. Features real-time animations, responsive design, and smooth transitions powered by GSAP and React Three Fiber.
-
-**Key Features:**
-- 3D scene rendering with optimized performance
-- Interactive project showcases with animations
-- Responsive design across all devices
-- Contact form with email integration
-
-**Tech Stack:** React • Three.js • Vite • Tailwind CSS • GSAP
+<br clear="right"/>
 
 ---
 
-### [Hotel Management System](https://github.com/mohamedatia21/hotel-management-system)
-**Full Stack • Python • System Design**
+## 🎯 Featured Projects
 
-Complete hotel management solution with booking system, dashboard analytics, and guest management. Built with scalable architecture and clean code principles.
+<div align="center">
 
-**Key Features:**
-- Booking management with calendar integration
-- Real-time availability tracking
-- Admin dashboard with analytics
-- Guest profile management
+### 🌐 [3D Interactive Portfolio](https://3d-portfolio-three-nu.vercel.app/)
 
-**Tech Stack:** Python • FastAPI/Django • PostgreSQL • React
+<a href="https://3d-portfolio-three-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+</a>
+<a href="https://github.com/mohamedatia21/3d-portfolio">
+  <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/>
+</a>
 
----
+**An immersive 3D portfolio experience with interactive animations and smooth transitions**
 
-### [FoodieHaven Independent](https://github.com/mohamedatia21/foodiehaven-independent)
-**E-Commerce • TypeScript • Full Stack**
-
-Modern restaurant ordering platform with real-time order tracking, payment integration, and admin panel for menu management.
-
-**Key Features:**
-- Real-time order tracking
-- Payment gateway integration
-- Dynamic menu management
-- User authentication & authorization
-
-**Tech Stack:** TypeScript • React • Node.js • MongoDB • Stripe
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
-### [ComfortKeeper System](https://github.com/mohamedatia21/comfortkeeper-sys)
-**Python • Desktop Application**
+### 🍔 [FoodieHaven - Restaurant Platform](https://hoodiehaven-independent.vercel.app/)
 
-Custom desktop application for system management with modern UI/UX using CustomTkinter framework.
+<a href="https://hoodiehaven-independent.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+</a>
+<a href="https://github.com/mohamedatia21/foodiehaven-independent">
+  <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/>
+</a>
 
-**Tech Stack:** Python • CustomTkinter • SQLite
+**Modern restaurant ordering platform with real-time tracking and payment integration**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
-## 💼 Technical Skills
+### 🏨 [ComfortKeeper - Hotel Management](https://comfortkeeper-sys-uv44.vercel.app/)
+
+<a href="https://comfortkeeper-sys-uv44.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+</a>
+<a href="https://github.com/mohamedatia21/comfortkeeper-sys">
+  <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/>
+</a>
+
+**Complete hotel management solution with booking system and analytics dashboard**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+---
+
+### 🐍 [Casata Mora - Desktop App](https://github.com/mohamedatia21/casata-mora)
+
+<a href="https://github.com/mohamedatia21/casata-mora">
+  <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/>
+</a>
+<img src="https://img.shields.io/badge/💻_Desktop_Application-success?style=for-the-badge" alt="Desktop"/>
+
+**Modern desktop application with sleek UI built using CustomTkinter**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-00599C?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedatia21&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatia21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedatia21&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
-  
-</div>
-
----
-
-## 🎯 What I'm Currently Working On
-
-- Building production-ready full-stack applications with modern architectures
-- Exploring advanced 3D web experiences with Three.js and WebGL
-- Contributing to open-source projects
-- Learning cloud infrastructure and deployment strategies
-- Studying bioinformatics algorithms and computational biology
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on interesting projects or discussing new opportunities. Feel free to reach out!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-three-nu.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hassan-attia)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedatia9123@gmail.com)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mohamedatia21&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Mohamed Attia's GitHub Stats" /> 
+
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedatia21&hide_border=true&card_width=338&border_radius=5&bg_color=0d1117&title_color=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Mohamed Attia's Streak Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatia21&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Mohamed Attia's Top Languages" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedatia21&custom_title=Mohamed's%20Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Mohamed Attia's Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=mohamedatia21&color=00d9ff&style=flat)
-  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=mohamedatia21&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+</div>
+
+---
+
+## 💭 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect and Build Something Amazing Together!
+
+**"Code is poetry written in logic"** ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
 </div>
