@@ -227,13 +227,7 @@
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedatia21&theme=tokyonight&utcOffset=2" alt="Productive Time"/>
 
 <!-- Detailed Profile Card -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedatia21&theme=tokyonight" alt="Profile Details"/>
 
-<!-- Additional Stats -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedatia21&theme=tokyonight" alt="Repos per Language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamedatia21&theme=tokyonight" alt="Most Commit Language"/>
-
-</div>
 
 ---
 
@@ -246,12 +240,7 @@
 
 ---
 
-<!-- Achievements Section -->
-## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedatia21&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
 
 ---
 
